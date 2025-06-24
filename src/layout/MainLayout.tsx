@@ -35,7 +35,10 @@ const MainLayout = () => {
           </Tooltip>
         </Toolbar>
       </AppBar>
-      <main className="w-screen pt-16 px-4 mx-auto h-screen">
+      <main
+        className="pt-16 px-4 mx-auto min-h-screen"
+        style={{ width: 'calc(100vw - 18px)' }}
+      >
         <Outlet />
       </main>
     </FavoritesProvider>
