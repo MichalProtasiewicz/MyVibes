@@ -7,7 +7,7 @@ Zbudowana w React + TypeScript, z użyciem Vite, Material UI, Tailwind CSS i Rea
 
 ## Demo
 
-> LINK - TODO
+> https://my-vibes.vercel.app/
 
 ---
 
